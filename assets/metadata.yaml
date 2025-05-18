@@ -1,0 +1,53 @@
+---
+title: "Constituting Affective Valence: An Emergentist-Predictive Model of Embodied Consciousness (EPET)"
+author: |
+  A.V. Kopnin\
+  Independent Researcher\
+  Email: a.v.kopnin@gmail.com
+date: "May 2025"
+abstract: |
+  Affective valence—our fundamental sense of pleasantness or unpleasantness—remains a core challenge in consciousness research. Traditional approaches, including reductive and functionalist accounts, struggle to explain the subjective quality inherent in affective experience. Here, we propose the Emergentist Predictive Experience Theory (EPET), an integrative framework combining predictive processing (PP), global workspace theory (GWT), and embodied self-modeling to explain the constitution of valence. According to EPET, valence is not merely caused by bodily signals nor cognitively attributed after the fact; rather, it emerges constitutively from an organism’s predictive regulation of interoceptive states relative to goal-oriented self-models. Specifically, we suggest that affective valence arises when interoceptive prediction errors are precision-weighted, hierarchically integrated, interpreted through narrative-level self-modeling, and broadcast globally within the cognitive architecture. We substantiate this model with recent empirical evidence from neurobiology, cognitive neuroscience, and psychology, and respond systematically to philosophical critiques of predictive processing approaches. Ultimately, EPET offers a nuanced, architecturally grounded solution to the explanatory gaps surrounding subjective affective experience, highlighting implications for cognitive science, philosophy of mind, and therapeutic practice.
+abstract-title: "Abstract"
+keywords:
+  - affective valence
+  - predictive processing
+  - global workspace theory
+  - interoception
+  - emergentism
+  - self-model
+  - consciousness
+  - embodiment
+  - phenomenology
+  - philosophy of mind
+# --- Bibliography and Citations ---
+bibliography: output/references_for_submission.bib
+csl: assets/csl/chicago-note-bibliography-with-ibid.csl
+link-citations: true
+# --- Document Settings ---
+lang: en-US
+documentclass: article
+fontsize: 11pt
+geometry: "a4paper, margin=2.5cm"
+# --- Table of Contents Settings ---
+toc: true
+toc-depth: 2
+# --- PDF Settings (via LaTeX/XeLaTeX) ---
+# pdf-engine: xelatex
+mainfont: "DejaVu Serif"
+sansfont: "DejaVu Sans"
+monofont: "DejaVu Sans Mono"
+# Set language for polyglossia (recommended for XeLaTeX)
+polyglossia-lang:
+  main: english
+# Other languages can be added if needed, e.g., for specific hyphenation, but usually not necessary
+header-includes: |
+  \PassOptionsToPackage{hyphens}{url}
+  \usepackage{xurl}
+  \urlstyle{same}
+  \usepackage{etoolbox}
+  \AtEndEnvironment{abstract}{
+    \par\vspace{1em}
+    \noindent\textbf{Keywords:} consciousness, predictive processing, global workspace theory, emergentism, Buddhist philosophy, qualia, self, philosophy of mind
+  }
+# --- End of Metadata ---
+...

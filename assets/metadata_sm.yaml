@@ -1,0 +1,28 @@
+---
+title: "Constituting Affective Valence: An Emergentist-Predictive Model of Embodied Consciousness (EPET)"
+# author: A.V. Kopnin
+# date: "May 2025"
+# --- Bibliography and Citations ---
+bibliography: output/references_for_sm.bib
+csl: assets/csl/chicago-note-bibliography-with-ibid.csl
+link-citations: true
+# --- Document Settings ---
+lang: en-US
+documentclass: article
+fontsize: 11pt
+geometry: "a4paper, margin=2.5cm"
+# --- Table of Contents Settings ---
+toc: true
+toc-depth: 2
+# --- PDF Settings (via LaTeX/XeLaTeX) ---
+# pdf-engine: xelatex
+mainfont: "DejaVu Serif"
+sansfont: "DejaVu Sans"
+monofont: "DejaVu Sans Mono"
+polyglossia-lang:
+  main: english
+header-includes: |
+  \PassOptionsToPackage{hyphens}{url}
+  \usepackage{xurl}
+  \urlstyle{same}
+...

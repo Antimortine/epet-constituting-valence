@@ -1,0 +1,14 @@
+manuscript/01_problem_statement.md
+manuscript/02_theoretical_background.md
+manuscript/03_epet_positioning.md
+manuscript/10_core_hypothesis.md
+manuscript/11_hierarchy_and_precision.md
+manuscript/12_embodiment_and_interoception.md
+manuscript/13_self_model_modulation.md
+manuscript/14_gwt_access.md
+manuscript/20_argument_for_constitutivity.md
+manuscript/21_model_comparison.md
+manuscript/22_empirical_interpretations.md
+manuscript/23_responses_to_critiques.md
+manuscript/30_empirical_hypotheses.md
+manuscript/31_future_work.md
