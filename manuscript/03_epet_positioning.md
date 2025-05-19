@@ -1,0 +1,29 @@
+## Philosophical Critiques and the Positioning of EPET
+
+While Predictive Processing (PP) and Free Energy Principle (FEP) frameworks offer compelling accounts of the mechanisms underlying affect, they are not without philosophical challenges, particularly concerning the constitution of affective valence. Addressing these critiques is crucial for developing a more complete theory.
+
+### Key Philosophical and Conceptual Gaps in Current PP/FEP Models of Valence
+
+1.  **The Phenomenality Gap:** A central criticism is that mathematical formalisms of prediction error dynamics, uncertainty, or free energy, while explanatorily powerful for behavior and neural processing, do not inherently explain *why* these processes should *feel* a certain way—the "what-it's-like" of pleasantness or unpleasantness [@Araya2018; @SprevakSmith2023; @FernandezVelascoLoev2021]. The link between the quantitative dynamics of error signals and the qualitative nature of valence often remains a conceptual bridge to be crossed.
+
+2.  **Conceptual Ambiguity of Valence:** The term "valence" itself can be ambiguous, sometimes referring to hedonic tone (pleasure/pain), at other times to motivational tendency (approach/avoidance), or even cognitive appraisal (good/bad). Clearer distinctions are needed, especially regarding the dissociation between "liking" (hedonic experience) and "wanting" (motivation) [@KringelbachBerridge2009; @Klein2020].
+
+3.  **The Problem of Significance (Enactive Critique):** Standard PP models can struggle to adequately explain *why* an organism "cares" about minimizing prediction error or why certain errors are affectively significant. Enactive and ecological approaches suggest that concepts like "affective affordances" or an inherent "lack of indifference" are needed to ground the normative, value-laden nature of valence in the organism's active engagement with its world [@KiversteinMillerRietveld2019; @Colombetti2014].
+
+4.  **Underestimation of Higher Cognition and Narrative:** Simple interoceptive prediction error dynamics may not fully account for complex, often self-conscious, emotions like shame, guilt, pride, or moral disgust, which seem to require narrative structure, self-evaluation, and socio-cultural context [@Barrett2017]. The role of the self-model and top-down conceptualization in shaping valence needs further integration.
+
+5.  **The "Dark Room" Problem and Novelty Seeking:** The drive to minimize prediction error, if taken simplistically, might imply that organisms should seek static, predictable environments (the "dark room"). This contrasts with observed exploratory behavior and the pursuit of novelty, which often involves increasing prediction error, at least temporarily. While FEP offers solutions via epistemic value and expected free energy [@Fristonetal2017curiosity], the precise affective correlates of such exploratory drives require careful articulation.
+
+### Positioning EPET: An Emergentist-Predictive and Constitutive Approach
+
+The Emergentist-Predictive Experience Theory (EPET) [@Kopnin2025] is specifically formulated to address these gaps and offer a distinct perspective on affective valence. While sharing the core insight with many contemporary models [@SethFriston2016; @Barrett2017; @Solms2019; @FernandezVelascoLoev2021] that valence is intimately linked to the predictive regulation of internal bodily states, EPET distinguishes itself through its unique **philosophical synthesis and specific mechanistic integration**.
+
+EPET is grounded in **non-reductive (weak) emergentist physicalism** and integrates key components:
+
+1.  **Predictive Processing (PP):** Adopted as the fundamental mechanism generating the content and potential quality of experience, including the signals related to interoceptive prediction errors that underpin valence.
+2.  **Embodiment and Interoception:** Central to EPET's account, providing the grounding for valence in the organism's ongoing effort to maintain homeostatic/allostatic stability.
+3.  **Global Workspace Theory (GWT):** Incorporated to explain how specific valenced states gain **conscious access**, become integrated into the broader cognitive system, and acquire reportability.
+4.  **Predictive Self-Model:** Postulates a dynamic self-model, constructed via PP, which actively **modulates the interpretation and phenomenal character** of valence signals, aligning with the Buddhist concept of *Saṅkhāra* influencing *Vedanā*.
+5.  **Constitutive Explanation of Qualia:** This is perhaps the most crucial distinguishing philosophical feature. EPET proposes that valence is not merely caused by or correlated with interoceptive error dynamics, but is **constituted by specific intrinsic properties of the globally accessible, embodied, integrated predictive modeling process itself**. The "feeling" of good/bad is the first-person perspective on the system successfully or unsuccessfully modeling its own state relative to its goals.
+
+Therefore, EPET aims to move beyond purely functional or correlational accounts of valence. It seeks to provide a framework that explains not only how valence signals arise and what function they serve, but also why this specific kind of predictive regulatory process possesses the **intrinsic phenomenal character** of pleasantness or unpleasantness when accessed consciously. It does so by embedding the PP mechanism within a broader emergentist philosophy and integrating it explicitly with mechanisms of conscious access (GWT) and self-representation (Self-Model), offering a potentially richer and more philosophically robust account than models focusing solely on PP error dynamics or functional roles. The subsequent sections will elaborate on the specific mechanisms through which EPET proposes valence is constituted within this integrative framework.

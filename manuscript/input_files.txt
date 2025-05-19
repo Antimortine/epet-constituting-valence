@@ -11,4 +11,5 @@ manuscript/21_model_comparison.md
 manuscript/22_empirical_interpretations.md
 manuscript/23_responses_to_critiques.md
 manuscript/30_empirical_hypotheses.md
+manuscript/40_conclusion.md
 manuscript/31_future_work.md

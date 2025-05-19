@@ -1,0 +1,26 @@
+# Discussion and Conclusion: EPET's Contribution to Understanding Affective Valence
+
+This paper has introduced the Emergentist-Predictive Experience Theory (EPET) as an integrative framework specifically aimed at providing a constitutive explanation for affective valence—our fundamental sense of pleasantness or unpleasantness. We have argued that valence is not merely caused by bodily signals nor cognitively attributed after the fact, but rather emerges as an intrinsic, high-level property of an organism’s ongoing, embodied, predictive regulation of its interoceptive states relative to its goals and self-models, when this regulatory process achieves global accessibility within the cognitive architecture.
+
+### Summary of Core Tenets and Strengths
+
+EPET's approach to affective valence is built upon a synthesis of Predictive Processing (PP), Global Workspace Theory (GWT), principles of embodiment and interoception, and a non-reductive emergentist physicalism, conceptually constrained by insights such as the Anattā (no-self) principle.
+
+Key strengths of this framework include:
+
+1.  **A Constitutive, Not Causal, Explanation:** EPET moves beyond seeking a simple cause for valence, instead detailing the *organizational and dynamic properties* of a complex physical process that *are* affective valence. This reframing aims to make the "hard problem" of affective qualia more tractable within a naturalistic worldview.
+2.  **Integration of Mechanisms:** By integrating PP (for generating the content and initial evaluation of interoceptive states), the predictive self-model (for modulating and interpreting these states), and GWT (for enabling conscious access and reportability), EPET offers a multi-level account that spans from basic physiological regulation to complex, self-aware emotional experience.
+3.  **Embodiment and Biological Grounding:** Valence is deeply rooted in the organism's fundamental need to maintain viability. Interoceptive prediction errors and their regulation provide a biologically plausible and motivationally salient foundation for the "goodness" or "badness" of experience.
+4.  **Role of the Self-Model:** EPET provides a specific architectural role for a dynamic, non-substantial self-model in shaping the intensity, interpretation, and nuanced character of valence, allowing for an explanation of complex emotions and individual differences in affective experience.
+5.  **Philosophical Coherence:** The framework is explicitly grounded in weak emergentist physicalism, aiming to affirm the reality of subjective affective experience while avoiding substance dualism or strong reductionism.
+6.  **Heuristic Value and Testability:** As outlined (Section on Empirical Hypotheses and Future Work), EPET generates specific, empirically testable hypotheses, fostering a productive interplay between theory and experimental research.
+
+### Addressing Limitations and Open Questions
+
+EPET is a developing theory and acknowledges several limitations and open questions. The precise neurocomputational details of the PP-GWT-Self-Model interface require further specification and empirical validation. While the constitutive claim offers a philosophical path, the deep intuition of the "explanatory gap" for subjective experience may persist for some. Extending the model to fully account for the entire spectrum of discrete emotions, moods, and affective disorders remains a significant task. Furthermore, the cross-cultural applicability of its self-model concepts and the ethical implications for artificial systems capable of similar predictive architectures warrant careful consideration.
+
+### Concluding Remarks
+
+Despite these ongoing challenges, the Emergentist-Predictive Experience Theory offers a novel and potentially fruitful perspective on affective valence. By proposing that valence is constituted by the intrinsic properties of a globally accessible, embodied, and self-model-modulated predictive regulatory process, EPET seeks to bridge the gap between the objective dynamics of the brain-body system and the subjective reality of feeling. It emphasizes that affective experience is not an isolated module but an integral aspect of how a complex, adaptive organism navigates its world and maintains its integrity.
+
+EPET's contribution lies not in providing a final, definitive answer to all questions surrounding affect, but in offering a coherent, scientifically informed, and philosophically grounded framework that integrates diverse insights and generates new avenues for research. It invites a continued interdisciplinary dialogue to deepen our understanding of one of the most fundamental and pervasive aspects of conscious life: our capacity to feel. By understanding the architectural conditions that constitute valence, we may not only advance cognitive science and philosophy of mind but also gain valuable insights for addressing affective dysregulation in clinical contexts and for considering the nature of experience in other biological or even artificial systems.
