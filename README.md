@@ -94,7 +94,7 @@ Please cite this manuscript (upon publication) as:
 @unpublished{Kopnin2025,
   author      = {Kopnin, Andrey V.},
   year        = {2025},
-  title       = {Constituting Valence: An Emergentist-Predictive Approach to Affective Experience (EPET)},
+  title       = {Constituting Affective Valence: An Emergentist-Predictive Model of Embodied Consciousness (EPET)},
   note        = {Manuscript in preparation (preprint available upon request)}
 }
 ```
